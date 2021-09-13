@@ -1,1 +1,6 @@
-
+The world wide web are the pages people see when scrolling and the internet is the network you are connected to while looking on the web.
+The internet connects multiple routers/computers all over the world.
+The directory acts as the main source that contains files under it.
+VCS is beneficial because I can work/look in files while other people are working on their own files.
+My computer does not let me take screenshots.
+Music is my favorite type of art.
