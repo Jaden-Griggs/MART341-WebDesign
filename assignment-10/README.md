@@ -1,0 +1,1 @@
+The universal selector is indicated by (*). As for a class selector, it starts with (.) and select everything in the document that applies to it. An ID selector begins with (#) and is basically used the same way as a class selector. The colors I used were light pink, hot pink and silver. This assignment was very time consuming to me. 

@@ -1,0 +1,53 @@
+body{
+  font-family: 'Arial', 'Elephant', 'Arial MT';
+}
+
+.main-container{
+  /*Draw a solid border make it silver*/
+  border-style: ridge;
+  border-width: 10px;
+  border-color; silver
+  /*Add space between the border and its inside elements.*/
+  padding: 10px;
+
+  /*Color the background hot pink*/
+  background-image: url('../images/images 3.jpg');
+  width: 75%
+  margin: auto;
+}
+
+div.align{
+  text.align: center;
+}
+
+.secondary-container{
+
+  margin: auto;
+  width: 25%;
+  padding: 50px;
+  border-bottom: 1px black solid;
+  border-spacing: inherit;
+}
+
+.third conainer{
+  margin: auto;
+  width: 50%;
+  background-color: light pink;
+  color: black;
+  font-weight: bolder;
+  text-align: center:center;
+}
+
+
+
+#mainheader{
+  position: relative;
+  left: 20px;
+  top: 5px;
+  color: light pink;
+  opacity: solid;
+  font-size: 60px;
+  background-color: hot pink;
+  width:30%;
+  font-weight:bolder;
+}
