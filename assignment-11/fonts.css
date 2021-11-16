@@ -1,0 +1,21 @@
+/* This is the file, "font.css." */
+@font-face {
+  font-family: 'Georgia';
+  src: url('../fonts/Georgia-Regular.ttf') format('opentype');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Georgia';
+  src: url('../fonts/Georgia-Bold.ttf') format('opentype');
+font-weight: 700;
+}
+@font-face {
+  font-family: 'sans-serif';
+  src: url('../fonts/sans-serif-regular.ttf') format('opentype');
+  font-style: normal;
+}
+@font-face{
+  font-family: 'sans-serif';
+  src: url('../fonts/sans-serif-bold.ttf') format('opentype');
+  font-weight: 700;
+}

@@ -1,0 +1,48 @@
+body {
+  background-color: white;
+}
+
+
+
+
+
+div{
+  text-align: left;
+  line-height: 1.50em;
+  font-family: Georgia, sans-serif;
+  margin-bottom: 10px;
+  padding: 5px
+}
+h1, h2, h3{
+  text-align: center;
+  font-family: Georgia, sans-serif;
+}
+.opening-paragraph{
+  color: #B6C3C9;
+  font-size: 20px;
+  text-indent: 10px;
+  font weight: 700;
+}
+.opening-paragraph: first-line{
+  font-size: 30;
+}
+.second-paragraph{
+  font-size: 18px;
+}
+#book_info{
+  text-decoration: none;
+  font-family: Georgia, sans-serif;
+}
+#book_info:hover{
+  font-family: Georgia, sans-serif;
+  text-decoration: underline;
+  font-weight: 650;
+}
+table{
+  border: 1px solid black;
+  font-family: Georgia, sans-serif;
+  font-weight: 700;
+}
+p{
+  font-family: Georgia, sans serif;
+}
