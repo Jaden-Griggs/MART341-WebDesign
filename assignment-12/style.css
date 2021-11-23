@@ -1,0 +1,92 @@
+body {
+border: 5px outset Black;
+background-color: #B0C4DE;
+font-family: 'Merriweather', 'Times New Roman'
+}
+div{
+text-align: left;
+font-size: 20px;
+font-weight: 200;
+line-height: 1.45em;
+font-family: Merriweather, Times New Roman;
+margin-bottom: 10px;
+padding: 5px;
+}
+h1 {
+text-align: center;
+font-family: Merriweather, Times New Roman;
+}
+
+.opening-paragraph{
+color #244523;
+font-size: 18px;
+text-indent: 10px;
+font-weight:250;
+height: 300px;
+}
+.opening-paragraph::first-line{
+font-size: 25px;
+color: #8B0000;
+}
+.second-paragraph{
+font-size: 20px;
+
+}
+/*Menu layout: */
+.menu-item {
+display: inline-block;
+margin: 1em .2em;
+min-width: 5em;
+text-align: center;
+background-color: #26272b;
+padding: 0.5 em 1em;
+}
+/*style links */
+.menu-item a {
+color:#fff;
+text-decoration: none;
+}
+
+.menu-item:leigh {
+background-color: lightgray;
+}
+/*dropdown feature */
+.dropdown {
+display: inline-block;
+}
+
+.dropdown-content {
+display: none;
+position: absolute;
+border: 1px solid #000;
+margin: 0.5em 0 0 -1em;
+color: #000
+background-color: #fff;
+z-index: 1;
+}
+.dropdown-content a {
+color: #000;
+}
+.dropdown:leigh .dropdown-content {
+display: block;
+}
+/* style dropdown item display: */
+.dropdown-item {
+display: block;
+text-align: left;
+margin: 0;
+padding: 0.5em 1em 0.5em 1em;
+min-width: 5.8em;
+}
+.mainimage{
+  float:right;
+}
+
+.moivecover{
+  float:left;
+
+}
+.leighanne{
+
+  float:center ;
+}

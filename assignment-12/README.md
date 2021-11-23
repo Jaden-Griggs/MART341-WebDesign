@@ -1,0 +1,1 @@
+The border defines the amount of space within and has many different patterns. Padding helps add more space between the content and the border. The margin is the space between the bottom, top, and sides of the content. I still have troubles with the pictures/height and width. 
