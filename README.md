@@ -9,4 +9,5 @@ The difference between divs, classes, ids, and spans are the things that help st
 
 >>>>>>> 84f91bd3c987014c88994809cd790e82f09e9eb1
 
-The universal selector is indicated by (*). As for a class selector, it starts with (.) and select everything in the document that applies to it. An ID selector begins with (#) and is basically used the same way as a class selector. The colors I used were light pink, hot pink and silver. This assignment was very time consuming to me. 
+The universal selector is indicated by (*). As for a class selector, it starts with (.) and select everything in the document that applies to it. An ID selector begins with (#) and is basically used the same way as a class selector. The colors I used were light pink, hot pink and silver. This assignment was very time consuming to me.
+I chose to have my client be Nike. They are such a universal brand that focuses on meeting everyone's needs and have brought and advertised a lot of diversity to their brand. This assignment was just very, very long.
