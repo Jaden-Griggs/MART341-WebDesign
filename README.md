@@ -1,2 +1,1 @@
-<<<<<<< HEAD
-I chose to have my client be Nike. They are such a universal brand that focuses on meeting everyone's needs and have brought and advertised a lot of diversity to their brand. This assignment was just very, very long.
+This class was definitely not an easy one for me! I am not very good with technology. But, everything I learned in this class was very interesting! I kind of got lost in the process of completing this assignment but it was still fun!
